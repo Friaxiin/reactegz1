@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reactegz1", "reactegz1\reactegz1.csproj", "{465ADDF3-48E7-4E9C-B564-5A66ADE55642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465ADDF3-48E7-4E9C-B564-5A66ADE55642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465ADDF3-48E7-4E9C-B564-5A66ADE55642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465ADDF3-48E7-4E9C-B564-5A66ADE55642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465ADDF3-48E7-4E9C-B564-5A66ADE55642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99273313-AEC5-4360-8427-90091626D1CF}
+	EndGlobalSection
+EndGlobal
